@@ -1,0 +1,13 @@
+# PlatformIO build output & caches
+.pio/
+.cache/
+.vscode/
+
+# Your real secrets — copy Credentials.h.example to Credentials.h and fill it in.
+# The real Credentials.h must NEVER be committed.
+src/Credentials.h
+
+# Firmware artifacts
+*.bin
+*.elf
+*.hex
